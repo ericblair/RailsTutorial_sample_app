@@ -90,6 +90,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  diff-lcs
   rails (= 3.0.7)
   rspec
   rspec-rails

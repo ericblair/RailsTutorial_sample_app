@@ -38,3 +38,5 @@ group :test do
   gem 'rspec'
   gem 'webrat'
 end
+
+gem 'diff-lcs'
