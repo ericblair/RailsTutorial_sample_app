@@ -7,6 +7,8 @@ gem 'rails', '3.0.7'
 
 gem 'sqlite3'
 
+gem 'gravatar_image_tag'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
@@ -39,6 +41,7 @@ group :test do
   gem 'rspec'
   gem 'webrat'
   gem 'spork'
+  gem 'factory_girl_rails'
 end
 
 gem 'diff-lcs'
